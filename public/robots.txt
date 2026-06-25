@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# PDFLingo — AI PDF translator
