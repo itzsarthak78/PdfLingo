@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# PDFLingo — AI PDF translator
+Sitemap: https://pdflingo.vercel.app/sitemap.xml
