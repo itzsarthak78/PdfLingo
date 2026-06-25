@@ -21,7 +21,7 @@ export const Route = createFileRoute("/")({
       {
         name: "keywords",
         content:
-          "PDFLingo, PDF translator, translate PDF, AI PDF translation, PDF translation online, translate PDF online free, PDF translator with layout, multilingual PDF, PDF translation tool",
+          "PDFLingo, Pdf lingo, Pdf lingo by sarthak, PDF translator, translate PDF, AI PDF translation, PDF translation online, translate PDF online free, PDF translator with layout, multilingual PDF, PDF translation tool",
       },
       { property: "og:title", content: SITE_TITLE },
       { property: "og:description", content: SITE_DESC },
