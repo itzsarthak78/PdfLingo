@@ -5,7 +5,6 @@ import { Features } from "@/components/site/Features";
 import { HowItWorks } from "@/components/site/HowItWorks";
 import { Testimonials } from "@/components/site/Testimonials";
 import { FAQ, FAQS } from "@/components/site/FAQ";
-import { SelfHost } from "@/components/site/SelfHost";
 import { CTA } from "@/components/site/CTA";
 import { Footer } from "@/components/site/Footer";
 
@@ -91,7 +90,6 @@ function Home() {
         <Features />
         <HowItWorks />
         <Testimonials />
-        <SelfHost />
         <FAQ />
         <CTA />
       </main>
